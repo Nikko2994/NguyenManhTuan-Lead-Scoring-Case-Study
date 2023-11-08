@@ -1,2 +1,3 @@
 # NguyenManhTuan-Lead-Scoring-Case-Study
 NguyenManhTuan-Lead-Scoring-Case-Study
+The problem at hand revolves around X Education, an online course provider, which is struggling with its lead conversion rate. While they attract a significant number of potential customers, only a small fraction of them actually enroll in courses. Their typical conversion rate stands at around 30%. To enhance this situation, the company aims to pinpoint the most promising leads, known as 'Hot Leads,' in order to streamline their sales efforts. Their ultimate target is to achieve an 80% conversion rate. The objective is to construct a model that assigns a lead score to each potential customer, with higher scores indicating a greater likelihood of conversion.
